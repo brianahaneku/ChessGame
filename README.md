@@ -1,5 +1,4 @@
-# ChessGame2
-The same as ChessGame but with more work done
+# ChessGame
 
 Programming a chess game in python
 
